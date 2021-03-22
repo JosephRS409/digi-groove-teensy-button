@@ -1,0 +1,7 @@
+teensy_loader_cli -mmcu=mkl26z64 -w file.hex
+
+Owe a lot to https://blog.hamaluik.ca/posts/making-a-custom-teensy3-hid-joystick/
+Need to replace files in /usr/share/arduino/hardware/teensy/avr/cores/teensy3/
+and /usr/share/arduino/hardware/teensy/avr/boards.txt.
+
+To make the Digigroove USB type available to other boards, change boards.txt; should be pretty intuitive.

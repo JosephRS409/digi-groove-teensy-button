@@ -1,6 +1,5 @@
 # digi-groove-teensy-button
 This is the code for the Digi-Groove controller. 
-(Archived for viewing only.) 
 
 The project's inspiration came from a rhythm game arcade cabinet of the same name.
 I saw it, loved it, and then built two like it from scratch.
